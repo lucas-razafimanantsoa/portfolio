@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+.netlify/
+*.log
+
+# Source material that should not be published
+prompt.md
+self.jpeg
